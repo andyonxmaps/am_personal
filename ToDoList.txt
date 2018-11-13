@@ -3,3 +3,7 @@
 [ ]Schedule Breweries script work with MRS
 [ ]IN First Checks
 [ ] leave pdogs behind
+Daily git
+[ ] morning branch checkout
+[ ] commit between counties or every hour
+[ ] pull request and get branch into master at EOD
