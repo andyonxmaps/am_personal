@@ -3,7 +3,8 @@
 [ ]Schedule Breweries script work with MRS
 [ ]IN First Checks
 [ ] leave pdogs behind
+[X] show ellen anmimal house movie
 Daily git
-[ ] morning branch checkout
+[X] morning branch checkout
 [ ] commit between counties or every hour
 [ ] pull request and get branch into master at EOD
