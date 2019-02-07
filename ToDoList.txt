@@ -1,11 +1,14 @@
-[MT, OR, IL, WI, CT]Work on License Vendor data acquisition
-[MT, OR, IL, WI, CT ]Process onX schema and merge License Vendors
+[X]Work on License Vendor data acquisition
+[X]Process onX schema and merge License Vendors
 [ ]Schedule Breweries script work with MRS
-[ ]IN First Checks
+[X]IN First Checks
 [ ] leave pdogs behind
 [X] show ellen anmimal house movie
 [x] tie flies with coworkers
+[ ] finish ME
 Daily git
 [X] morning branch checkout
 [ ] commit between counties or every hour
 [ ] pull request and get branch into master at EOD
+2019
+[ ] have more peer reviews to do (2+)
